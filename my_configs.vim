@@ -1,3 +1,3 @@
 set mouse=a
-set relativenumber
+set number relativenumber
 set numberwidth=2
